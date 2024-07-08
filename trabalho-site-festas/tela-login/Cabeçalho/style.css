@@ -35,7 +35,7 @@
       border: 1px #fce4fc; /* borda branca */
       border-radius: 13px; /* bordas*/
       background-color: #fce4fc; /* fundo roxo claro */
-      color: ; /* texto preto */    
+      color: black; /* texto preto */    
     }
 
     .lugar {
