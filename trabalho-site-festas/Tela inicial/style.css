@@ -14,8 +14,7 @@
 
     }
     .cabecalho > * {
-      display: block;
-      vertical-align: top;
+      display: inline-block;
       padding: 0;
     }
 
