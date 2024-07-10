@@ -13,6 +13,7 @@
     .cabeçalho > * {
       display: inline-block;
       vertical-align: middle;
+      padding: 0;
     }
  
 
@@ -33,10 +34,7 @@
       display: inline-block;
       padding: auto;
       align-items: center;
-      text-align: center; /* Add this */  
-
-      
-
+      text-align: center; /* Add this */ 
     }
 
     .search{
@@ -71,6 +69,7 @@
       border: 1px solid white;
       padding: 8px;
       color: white;
+      border-radius: 13px;
       display: inline-block; /* Add this */
     }
     
@@ -81,14 +80,6 @@
       display: inline-block; /* Add this */
     }
     
-    .login .cadastrar {
-      padding: 8px;
-      background-color: #5F3361;
-      border: 1px solid white;
-      color: white;
-      display: inline-block; /* Add this */
-    }
-
     .logo {
       margin-left: 230px;
       margin-right: 600px; /*distancia entre o logo e o login */
