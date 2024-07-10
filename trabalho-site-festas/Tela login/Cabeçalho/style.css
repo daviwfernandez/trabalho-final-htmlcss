@@ -22,6 +22,13 @@ header {
   background-color: #B59DB6;
   border: none;
   box-shadow: 3px 2px 5px 2px #89768a;
+  white-space: nowrap;
+  margin-right: 10px;
+  }
+
+@viewport {
+  width: device-width;
+  zoom: 5;
 }
 
 .search{
@@ -36,6 +43,7 @@ header {
   border: 1px solid #FFFFFF;
   border-radius: 13px;
   background-color: #ffffff;
+  white-space: nowrap;
 }
 
 .pesquise {
