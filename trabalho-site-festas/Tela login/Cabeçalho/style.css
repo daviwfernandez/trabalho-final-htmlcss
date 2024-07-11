@@ -40,7 +40,7 @@ a{
   background-color:#5F3361;
   white-space: nowrap;
   position: absolute;
-<<<<<<< HEAD
+/*<<<<<<< HEAD*/
   top: 0;
   left: 0;
   width: 100%;
@@ -57,13 +57,13 @@ a{
 @viewport {
   width: device-width;
   zoom: 5;
-=======
+/*=======*/
   max-width: max-content;
   display: inline-block;
   padding: 10px;
   align-items: center;
   text-align: left; /* Add this */
->>>>>>> 8ea5573f1dea28a41419b36b408b6ff73482c128
+/*>>>>>>> 8ea5573f1dea28a41419b36b408b6ff73482c128*/
 }
 
 .search{
