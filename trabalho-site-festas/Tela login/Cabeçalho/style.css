@@ -37,7 +37,7 @@ a{
 }
 
 .header {
-  background-color:#5F3361;
+  background-color:#8d608f;
   white-space: nowrap;
   position: absolute;
   max-width: max-content;
@@ -74,7 +74,6 @@ a{
 .lugar {
   margin-top: 5px;
   margin-left: 80px;
-  background-color: #5F3361;
   padding: 8px;
   color: white;
   display: inline-block; /* Add this */
